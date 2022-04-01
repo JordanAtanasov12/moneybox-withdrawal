@@ -5,7 +5,7 @@ using Moneybox.App.DataAccess;
 using Moneybox.App.Domain;
 using Moneybox.App.Domain.Services;
 
-namespace moneybox_withdraw_master.Tests.Services_Test
+namespace moneybox_withdraw_master.Tests.ServicesTests
 {
 
     public class AccountValidatorTest

@@ -4,7 +4,7 @@ using System.Net.Mail;
 using Moneybox.App.Domain.Services;
 using Moneybox.App.DataAccess;
 
-namespace moneybox_withdraw_master.Tests.Services_Test
+namespace moneybox_withdraw_master.Tests.ServicesTests
 {
 
     public class NotificationHandlerTest

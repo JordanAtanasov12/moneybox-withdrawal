@@ -3,7 +3,7 @@ using Xunit;
 using Moneybox.App.Domain.Services;
 using Moneybox.App.DataAccess;
 
-namespace moneybox_withdraw_master.Tests.DataAccess_Test
+namespace moneybox_withdraw_master.Tests.DataAccessTests
 {
 
     public class AccountRepositoryTest
